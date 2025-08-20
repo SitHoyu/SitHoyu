@@ -65,3 +65,5 @@ I'm a **[Your Job Title, e.g., Frontend Developer | Data Scientist | DevOps Engi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View Counter" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=C++)](https://github.com/anuraghazra/github-readme-stats)
