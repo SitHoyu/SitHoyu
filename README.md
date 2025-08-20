@@ -4,7 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
-I'm a **[Your Job Title, e.g., Frontend Developer | Data Scientist | DevOps Engineer]** passionate about **[Your Interests, e.g., building scalable web apps, machine learning, open source]**.
+I'm a master's student majoring in artificial intelligence at **[Sun Yat-sen University]**.
+I'm a **[Backend Developer]** passionate about **[Large Language Model Applications]**.
 
 ---
 
@@ -18,24 +19,13 @@ I'm a **[Your Job Title, e.g., Frontend Developer | Data Scientist | DevOps Engi
     <img src="https://skillicons.dev/icons?i=vue,html,css" alt="Frontend" />
     <br/>
     <!-- Backend & DB -->
-    <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,redis" alt="Backend & Database" />
+    <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,redis,spring" alt="Backend & Database" />
     <br/>
     <!-- DevOps & Cloud -->
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker" alt="DevOps & Cloud" />
     <br/>
     <!-- Tools -->
-    <img src="https://skillicons.dev/icons?i=vscode,idea" alt="Tools" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your Name's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,gmail" alt="Tools" />
 </p>
 
 ---
