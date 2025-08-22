@@ -28,3 +28,5 @@ I'm a **[Backend Developer]** passionate about **[Large Language Model Applicati
     <!-- Tools -->
     <img src="https://skillicons.dev/icons?i=vscode,idea,gmail" alt="Tools" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SitHoyu)
