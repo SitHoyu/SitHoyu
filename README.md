@@ -31,4 +31,4 @@ I'm a **[Backend Developer]** passionate about **[Large Language Model Applicati
 
 ---
 
-[![Top Langs](https://https://github-readme-stats-nu-five-55.vercel.app/api/top-langs/?username=SitHoyu&hide=C++)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nu-five-55.vercel.app/api/top-langs/?username=SitHoyu&hide=C++)](https://github.com/anuraghazra/github-readme-stats)
