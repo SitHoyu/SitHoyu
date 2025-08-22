@@ -29,8 +29,8 @@ I'm a **[Backend Developer]** passionate about **[Large Language Model Applicati
 ---
 
 <p align="center">
-    <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=SitHoyu&theme=dracula&include_all_commits=true&show_icons=true&hide_border=true" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitHoyu&theme=transparent&hide_border=true&layout=&layout=compact&langs_count=6" />
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=SitHoyu&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitHoyu&theme=transparent&hide_border=true&layout=compact&langs_count=6" />
 </p>
 
 ---
