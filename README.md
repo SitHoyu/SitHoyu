@@ -7,7 +7,7 @@
 
 I'm a master's student majoring in artificial intelligence at **[Sun Yat-sen University]**.
 I'm a **[Backend Developer]** passionate about **[Large Language Model Applications]**.
-
+![image](https://pic.pngsucai.com/00/75/01/d195641d8c27c510.webp)
 ---
 
 ### 🛠️ Languages and Tools
@@ -28,6 +28,3 @@ I'm a **[Backend Developer]** passionate about **[Large Language Model Applicati
     <!-- Tools -->
     <img src="https://skillicons.dev/icons?i=vscode,idea,gmail" alt="Tools" />
 </p>
-
----
-<img align="left" alt="Sit Ho-yu's GitHub Statics" src="https://github-readme-stats-nu-five-55.vercel.app/api?username=SitHoyu&hide=C++">
