@@ -15,18 +15,22 @@ I'm a **[Backend Developer]** passionate about **[Large Language Model Applicati
 <p align="left">
     <!-- Programming Languages -->
     <img src="https://skillicons.dev/icons?i=js,python,java,go" alt="Programming Languages" />
-    <br/>
     <!-- Frontend -->
     <img src="https://skillicons.dev/icons?i=vue,html,css" alt="Frontend" />
     <br/>
     <!-- Backend & DB -->
     <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,redis,spring" alt="Backend & Database" />
-    <br/>
     <!-- DevOps & Cloud -->
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker" alt="DevOps & Cloud" />
-    <br/>
     <!-- Tools -->
     <img src="https://skillicons.dev/icons?i=vscode,idea,gmail" alt="Tools" />
 </p>
+---
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SitHoyu&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitHoyu&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SitHoyu)
+---
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SitHoyu&theme=github-compact&hide_border=true&area=true" />
